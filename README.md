@@ -20,4 +20,4 @@
 
 
 ## 📊 Data Analysis Projects:
-- [Repositorio de prueba](https://github.com/miguelASL/Eurocopa_Espana): Esto es solo una prueba
+- [Repositorio de prueba](https://github.com/El-Unicorneo-Analitico/repositorio)): Esto es solo una prueba
