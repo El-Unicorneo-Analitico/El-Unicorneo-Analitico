@@ -15,3 +15,9 @@
 <a target="_blank" href="https://www.linkedin.com/in/https://www.linkedin.com/school/unicornacademyes/" style="display: inline-block;"><img src="https://img.shields.io/badge/linkedin-logo?style=for-the-badge&logo=linkedin&logoColor=white&color=%230a77b6" alt="linkedin" /></a>
 <a target="_blank" href="https://www.instagram.com/El_unicorneo_2024" style="display: inline-block;"><img src="https://img.shields.io/badge/instagram-logo?style=for-the-badge&logo=instagram&logoColor=white&color=%23F35369" alt="instagram" /></a>
 <a target="_blank" href="https://www.youtube.com/Caterina Abanoni" style="display: inline-block;"><img src="https://img.shields.io/badge/youtube-logo?style=for-the-badge&logo=youtube&logoColor=white&color=%23cc0000" alt="youtube" /></a></p>
+
+
+
+
+## 📊 Data Analysis Projects:
+- [Repositorio de prueba](https://github.com/miguelASL/Eurocopa_Espana): Esto es solo una prueba
